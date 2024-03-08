@@ -11,4 +11,12 @@ Causes of death classified by the International Classification of Diseases, Tent
 National Center for Health Statistics, Vital statistics data available.  Mortality multiple cause files.</br>
 Hyattsville, MD: National Center for Health Statistics.  Available from: <a href='https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm'>https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm</a></br>
 
-Murphy SL, Xu JQ, Kochanek KD, Curtin SC, and Arias E. Deaths: Final data for 2015. National vital statistics reports; vol 66. no 6. Hyattsville, MD: National Center for Health Statistics. 2017. Available from: <a href='https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_06.pdf'</a></br>
+Murphy SL, Xu JQ, Kochanek KD, Curtin SC, and Arias E. Deaths: Final data for 2015. National vital statistics reports; vol 66. no 6. Hyattsville, MD: National Center for Health Statistics. 2017. Available from: <a href='https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_06.pdf'></a></br>
+
+-------------------------------------------------------------------------------
+**DATA SOURCES**</br>
+U.S. National Center for Health Statistics (2022). *Leading Causes of Death: United States* [Data set].<br><a href='https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states</a>
+
+U.S. Census Bureau (2019). *Population, Population Change, and Estimated Components of Population Change: April 1, 2010 to July 1, 1999* [Data set].</br><a href='https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html</a>
+
+U.S. Census Bureau (2010). *State Intercensal Tables: 2000-2010* [Data set].</br><a href='https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-state.html'>&nbsp; &nbsp; &nbsp; &nbsp;https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-state.html</a>
