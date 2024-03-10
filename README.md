@@ -8,10 +8,10 @@ Causes of death classified by the International Classification of Diseases, Tent
 
 -------------------------------------------------------------------------------
 **REFERENCES**</br>
-National Center for Health Statistics, Vital statistics data available.  Mortality multiple cause files.</br>
-Hyattsville, MD: National Center for Health Statistics.  Available from: <a href='https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm'>https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm</a></br>
+National Center for Health Statistics, Vital statistics data available.  *Mortality multiple cause files*.</br>
+Hyattsville, *MD: National Center for Health Statistics*.  Available from: <a href='https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm'>https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm</a></br>
 
-Murphy SL, Xu JQ, Kochanek KD, Curtin SC, and Arias E. Deaths: Final data for 2015. National vital statistics reports; vol 66. no 6. Hyattsville, MD: National Center for Health Statistics. 2017. Available from: <a href='https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_06.pdf'></a></br>
+Murphy SL, Xu JQ, Kochanek KD, Curtin SC, and Arias E. Deaths: *Final data for 2015. National vital statistics reports; vol 66. no 6. Hyattsville, MD: National Center for Health Statistics. 2017*. Available from: <a href='https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_06.pdf'></a>https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_06.pdf</br>
 
 -------------------------------------------------------------------------------
 **DATA SOURCES**</br>
